@@ -14,3 +14,5 @@ D. There's an array of strings, and we're trying to get the string keys out of t
 
 Answer:
 B. There is no method called keys for Array objects.
+
+=end
